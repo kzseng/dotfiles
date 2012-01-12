@@ -1,0 +1,1 @@
+{"generated_by":"Vimana-2010.09302","installer_type":"text","version":0.3,"files":[{"checksum":"3e2c8c655cb5da4b6d26d1e94af276ea","file":"/home/yuki/.vim/syntax/perl.vim"}],"package":"perl-mauke.vim"}

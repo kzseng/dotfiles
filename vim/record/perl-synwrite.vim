@@ -1,0 +1,1 @@
+{"generated_by":"Vimana-2010.09302","installer_type":"text","version":0.3,"files":[{"checksum":"5ef6eea0e56e2c5b1a9e8ff44a219e40","file":"/home/yuki/.vim/ftplugin/perl_synwrite.vim"}],"package":"perl-synwrite.vim"}
