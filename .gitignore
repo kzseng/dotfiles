@@ -1,0 +1,8 @@
+# 管理外
+vim/bundle/
+zsh/cdd*
+
+# 管理対象
+vim/bundle/Align.vim/
+vim/bundle/eregex.vim/
+

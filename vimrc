@@ -221,7 +221,7 @@ filetype indent on
 " ------------------------------------------------
 "  NERD_comments.vim
 " ------------------------------------------------
-"map <C-k><C-c> <Leader>c<space>
+map <C-k><C-x> <Leader>c<space>
 "map <C-k><C-c> <plug>NERDCommenterToggle
 let NERDShutUp=1
 
